@@ -343,6 +343,8 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/' tar
 | shadcn-ui-components               | Every component recreated in Figma.                                                                             | [Link](https://www.figma.com/community/file/1342715840824755935/shadcn-ui-components) | 2024-03-21 |
 | shadcn-ui-storybook (JheanAntunes) | All shadcn/ui components registered in the storybook by JheanAntunes.                                           | [Link](https://65711ecf32bae758b457ae34-uryqbzvojc.chromatic.com/)                    | 2024-12-27 |
 | shadcn-ui-storybook (fellipeutaka) | All shadcn/ui components registered in the storybook by fellipeutaka.                                           | [Link](https://fellipeutaka-ui.vercel.app/?path=/docs/components-accordion--docs)     | 2024-12-27 |
+| hello world | hello there...  | [Link](https://google.com)     ||
+
 
 ## Boilerplates / Templates
 
